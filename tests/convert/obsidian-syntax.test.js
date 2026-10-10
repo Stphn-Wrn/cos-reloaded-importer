@@ -67,3 +67,21 @@ test("un lien obsidian:// devient un lien Foundry", () => {
   assert.equal(replaceObsidianHrefs(html, resolve), "@UUID[JournalEntry.abc]{Arc H}");
   assert.deepEqual(received, [{ page: "Act II/Arc H - The Lost Soul", anchor: null, alias: null }]);
 });
+
+test("un autre format de lien peut remplacer le format Foundry", () => {
+  const resolve = () => ({ uuid: "JournalEntry.abc", pageId: "p1", label: "Arc H" });
+  const formatLink = (link, resolved) => `<${resolved.pageId}:${resolved.label}>`;
+
+  const result = replaceWikilinks("Voir [[Arc H - The Lost Soul|Arc H]].", resolve, formatLink);
+
+  assert.equal(result, "Voir <p1:Arc H>.");
+});
+
+test("le format de lien choisi s'applique aussi aux liens obsidian:// déjà convertis en HTML", () => {
+  const resolve = () => ({ uuid: "JournalEntry.abc", pageId: "p1", label: "Arc H" });
+  const formatLink = (link, resolved, label) => `<${resolved.pageId}:${label}>`;
+
+  const result = replaceObsidianHrefs('<a href="obsidian://open?vault=x&file=Arc%20H.md">ici</a>', resolve, formatLink);
+
+  assert.equal(result, "<p1:ici>");
+});

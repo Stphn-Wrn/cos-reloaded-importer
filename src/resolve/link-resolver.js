@@ -30,20 +30,25 @@ export function createLinkResolver({ index, slugify, localization = identityLoca
       return null;
     }
 
+    let firstPageId = null;
+    if (document.sections.length > 0) {
+      firstPageId = pageIdFor(document.sections[0]);
+    }
     if (!link.anchor || link.anchor.startsWith("^")) {
-      return { uuid: journalUuid(document), label: link.alias ?? localization.documentName(document) };
+      return { uuid: journalUuid(document), pageId: firstPageId, label: link.alias ?? localization.documentName(document) };
     }
 
     const heading = index.findHeading(document, link.anchor.split("#").pop());
     if (!heading) {
-      return { uuid: journalUuid(document), label: link.alias ?? link.anchor };
+      return { uuid: journalUuid(document), pageId: firstPageId, label: link.alias ?? link.anchor };
     }
 
     const plain = displayedHeading(heading, localization);
     const label = link.alias ?? plain;
+    const pageId = pageIdFor(heading.section);
     if (heading.level === 1) {
-      return { uuid: pageUuid(document, heading.section), label };
+      return { uuid: pageUuid(document, heading.section), pageId, label };
     }
-    return { uuid: `${pageUuid(document, heading.section)}#${slugify(plain)}`, label };
+    return { uuid: `${pageUuid(document, heading.section)}#${slugify(plain)}`, pageId, label };
   };
 }

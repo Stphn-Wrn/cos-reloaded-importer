@@ -23,7 +23,11 @@ test("un lien vers un fichier pointe vers son journal", () => {
 
   const link = resolve({ page: "Arc H - The Lost Soul", anchor: null, alias: null }, npcs);
 
-  assert.deepEqual(link, { uuid: `JournalEntry.${journalIdFor(arcH)}`, label: "Arc H - The Lost Soul" });
+  assert.deepEqual(link, {
+    uuid: `JournalEntry.${journalIdFor(arcH)}`,
+    pageId: pageIdFor(arcH.sections[0]),
+    label: "Arc H - The Lost Soul"
+  });
 });
 
 test("un lien vers un sous-titre pointe vers la page et l'ancre du titre", () => {
@@ -32,7 +36,7 @@ test("un lien vers un sous-titre pointe vers la page et l'ancre du titre", () =>
   const link = resolve({ page: "Non-Player Characters", anchor: "Lady Fiona Wachter", alias: "Lady Wachter" }, arcH);
 
   const pageUuid = `JournalEntry.${journalIdFor(npcs)}.JournalEntryPage.${pageIdFor(npcs.sections[0])}`;
-  assert.deepEqual(link, { uuid: `${pageUuid}#lady-fiona-wachter`, label: "Lady Wachter" });
+  assert.deepEqual(link, { uuid: `${pageUuid}#lady-fiona-wachter`, pageId: pageIdFor(npcs.sections[0]), label: "Lady Wachter" });
 });
 
 test("un lien vers un titre de niveau 1 pointe vers la page sans ancre", () => {
@@ -42,6 +46,7 @@ test("un lien vers un titre de niveau 1 pointe vers la page sans ancre", () => {
 
   assert.deepEqual(link, {
     uuid: `JournalEntry.${journalIdFor(arcH)}.JournalEntryPage.${pageIdFor(arcH.sections[0])}`,
+    pageId: pageIdFor(arcH.sections[0]),
     label: "H1. Start"
   });
 });
@@ -59,11 +64,27 @@ test("un titre introuvable renvoie vers le journal du fichier", () => {
 
   const link = resolve({ page: "Non-Player Characters", anchor: "Personne", alias: null }, npcs);
 
-  assert.deepEqual(link, { uuid: `JournalEntry.${journalIdFor(npcs)}`, label: "Personne" });
+  assert.deepEqual(link, { uuid: `JournalEntry.${journalIdFor(npcs)}`, pageId: pageIdFor(npcs.sections[0]), label: "Personne" });
 });
 
 test("un fichier introuvable ne donne pas de lien", () => {
   const { resolve, npcs } = setup();
 
   assert.equal(resolve({ page: "Arc D - The Tome of Strahd", anchor: null, alias: null }, npcs), null);
+});
+
+test("un lien vers un fichier vide pointe vers son journal, sans page", () => {
+  const index = buildVaultIndex({
+    markdownFiles: [
+      { path: "Appendices/Vide.md", text: "" },
+      { path: "Act II/Arc H.md", text: "# H1. Start\nTexte" }
+    ],
+    imagePaths: []
+  });
+  const resolve = createLinkResolver({ index, slugify: (text) => text });
+  const [empty, arcH] = index.documents;
+
+  const link = resolve({ page: "Vide", anchor: null, alias: null }, arcH);
+
+  assert.deepEqual(link, { uuid: `JournalEntry.${journalIdFor(empty)}`, pageId: null, label: "Vide" });
 });

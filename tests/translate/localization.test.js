@@ -111,14 +111,17 @@ test("un lien vers un sous-titre traduit utilise le titre français pour le libe
 
   assert.deepEqual(resolve({ page: "", anchor: "Library", alias: null }, document), {
     uuid: `${pageUuid}#bibliothèque`,
+    pageId: pageIdFor(document.sections[0]),
     label: "Bibliothèque"
   });
   assert.deepEqual(resolve({ page: "", anchor: "A2. Death House", alias: "la maison" }, document), {
     uuid: pageUuid,
+    pageId: pageIdFor(document.sections[0]),
     label: "la maison"
   });
   assert.deepEqual(resolve({ page: "", anchor: "A2. Death House", alias: null }, document), {
     uuid: pageUuid,
+    pageId: pageIdFor(document.sections[0]),
     label: "A2. La Maison de la Mort"
   });
 });

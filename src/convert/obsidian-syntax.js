@@ -26,17 +26,22 @@ function fallbackLabel(link) {
   return link.page.split("/").pop();
 }
 
-function toFoundryLink(link, resolved) {
+export function formatFoundryLink(link, resolved, label) {
   if (!resolved) {
-    return `<span class="cosr-unresolved">${fallbackLabel(link)}</span>`;
+    return `<span class="cosr-unresolved">${label}</span>`;
   }
-  return `@UUID[${resolved.uuid}]{${resolved.label}}`;
+  return `@UUID[${resolved.uuid}]{${label}}`;
 }
 
-export function replaceWikilinks(markdown, resolve) {
+export function replaceWikilinks(markdown, resolve, formatLink = formatFoundryLink) {
   return markdown.replace(WIKILINK, (match, raw) => {
     const link = parseWikilink(raw);
-    return toFoundryLink(link, resolve(link));
+    const resolved = resolve(link);
+    let label = fallbackLabel(link);
+    if (resolved) {
+      label = resolved.label;
+    }
+    return formatLink(link, resolved, label);
   });
 }
 
@@ -85,13 +90,9 @@ export function normalizeTableSeparators(markdown) {
     .join("\n");
 }
 
-export function replaceObsidianHrefs(html, resolve) {
+export function replaceObsidianHrefs(html, resolve, formatLink = formatFoundryLink) {
   return html.replace(OBSIDIAN_HREF, (match, file, label) => {
     const link = { page: decodeURIComponent(file).replace(/\.md$/i, ""), anchor: null, alias: null };
-    const resolved = resolve(link);
-    if (!resolved) {
-      return `<span class="cosr-unresolved">${label}</span>`;
-    }
-    return `@UUID[${resolved.uuid}]{${label}}`;
+    return formatLink(link, resolve(link), label);
   });
 }
