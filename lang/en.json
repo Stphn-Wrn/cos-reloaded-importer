@@ -1,0 +1,51 @@
+{
+  "COSR": {
+    "Title": "Curse of Strahd: Reloaded",
+    "DirectoryButton": "CoS Reloaded",
+    "Dialog": {
+      "Source": "Source: {repository}",
+      "NotImported": "The guide has not been imported into this world yet.",
+      "Imported": "Imported version: {date}",
+      "Latest": "Latest published version: {date}",
+      "UpToDate": "Your journals are up to date.",
+      "UpdateAvailable": "An update is available.",
+      "ChangedFiles": "Files changed since your import:",
+      "LoadError": "Could not reach GitHub: {error}",
+      "Force": "Also overwrite pages I have edited",
+      "ForceHint": "By default, a page you edited by hand is never replaced. Pages you add to the journals yourself are never touched.",
+      "Credits": "Guide written by DragnaCarta, free and not affiliated with Wizards of the Coast. Consider supporting their work on Patreon.",
+      "Import": "Import",
+      "Update": "Update",
+      "Close": "Close"
+    },
+    "Progress": {
+      "Start": "Importing Curse of Strahd: Reloaded…",
+      "Fetch": "Downloading the guide ({done}/{total})",
+      "Build": "Converting pages…",
+      "Write": "Writing journals…",
+      "Done": "Import complete"
+    },
+    "Notify": {
+      "Done": "Curse of Strahd: Reloaded: {created} pages created, {updated} updated, {removed} removed, {unchanged} unchanged.",
+      "Conflicts": "{count} hand-edited pages were not updated. Run the import again with \"Overwrite\" checked to replace them.",
+      "Failed": "Import failed: {error}",
+      "AlreadyRunning": "An import is already running.",
+      "UpdateAvailable": "A Curse of Strahd: Reloaded update is available. Open \"CoS Reloaded\" in the Journal tab to apply it.",
+      "TranslationOutdated": "{count} sections have no up-to-date translation and were imported in English."
+    },
+    "Settings": {
+      "CheckForUpdates": {
+        "Name": "Check for guide updates",
+        "Hint": "When the world launches, tells the GM if a new version of the guide has been published."
+      },
+      "GuideLanguage": {
+        "Name": "Guide language",
+        "Hint": "Language of the imported journals. Sections without an up-to-date translation stay in English. Run the import again after changing it."
+      },
+      "TranslationUrl": {
+        "Name": "Translation location",
+        "Hint": "Folder (relative to the Foundry Data folder) or URL holding the translation's manifest.json. Defaults to the French translation shipped with the module."
+      }
+    }
+  }
+}

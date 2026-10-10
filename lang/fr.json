@@ -1,0 +1,51 @@
+{
+  "COSR": {
+    "Title": "Curse of Strahd: Reloaded",
+    "DirectoryButton": "CoS Reloaded",
+    "Dialog": {
+      "Source": "Source : {repository}",
+      "NotImported": "Le guide n'a pas encore été importé dans ce monde.",
+      "Imported": "Version importée : {date}",
+      "Latest": "Dernière version publiée : {date}",
+      "UpToDate": "Vos journaux sont à jour.",
+      "UpdateAvailable": "Une mise à jour est disponible.",
+      "ChangedFiles": "Fichiers modifiés depuis votre import :",
+      "LoadError": "Impossible de joindre GitHub : {error}",
+      "Force": "Écraser aussi les pages que j'ai modifiées",
+      "ForceHint": "Par défaut, une page que vous avez modifiée à la main n'est jamais remplacée. Les pages que vous ajoutez vous-même aux journaux ne sont jamais touchées.",
+      "Credits": "Guide écrit par DragnaCarta, gratuit et non affilié à Wizards of the Coast. Pensez à soutenir son travail sur Patreon.",
+      "Import": "Importer",
+      "Update": "Mettre à jour",
+      "Close": "Fermer"
+    },
+    "Progress": {
+      "Start": "Import de Curse of Strahd: Reloaded…",
+      "Fetch": "Téléchargement du guide ({done}/{total})",
+      "Build": "Conversion des pages…",
+      "Write": "Écriture des journaux…",
+      "Done": "Import terminé"
+    },
+    "Notify": {
+      "Done": "Curse of Strahd: Reloaded : {created} pages créées, {updated} mises à jour, {removed} supprimées, {unchanged} inchangées.",
+      "Conflicts": "{count} pages modifiées à la main n'ont pas été mises à jour. Relancez l'import en cochant « Écraser » pour les remplacer.",
+      "Failed": "L'import a échoué : {error}",
+      "AlreadyRunning": "Un import est déjà en cours.",
+      "UpdateAvailable": "Une mise à jour de Curse of Strahd: Reloaded est disponible. Ouvrez « CoS Reloaded » dans l'onglet Journaux pour l'appliquer.",
+      "TranslationOutdated": "{count} sections n'ont pas de traduction à jour et ont été importées en anglais."
+    },
+    "Settings": {
+      "CheckForUpdates": {
+        "Name": "Vérifier les mises à jour du guide",
+        "Hint": "Au lancement du monde, prévient le MJ si une nouvelle version du guide est publiée."
+      },
+      "GuideLanguage": {
+        "Name": "Langue du guide",
+        "Hint": "Langue des journaux importés. Les sections sans traduction à jour restent en anglais. Relancez l'import après avoir changé ce réglage."
+      },
+      "TranslationUrl": {
+        "Name": "Emplacement de la traduction",
+        "Hint": "Dossier (relatif au dossier Data de Foundry) ou URL contenant le manifest.json de la traduction. Par défaut, la traduction française fournie avec le module."
+      }
+    }
+  }
+}

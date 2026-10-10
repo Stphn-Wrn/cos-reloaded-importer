@@ -1,0 +1,11 @@
+Dans cet acte, qui commence une fois que les joueurs ont allumé le phare d'Argynvostholt dans [[Arc Q - A Shining Beacon]], les joueurs doivent se rendre au sommet du mont Ghakis pour retrouver l'*Épée solaire*, perdue depuis longtemps, et percer les secrets des sanctuaires de Barovie. 
+
+Après avoir recruté l'elfe du crépuscule Kasimir Velikov et appris l'intérêt qu'il porte au Temple d'Ambre, les joueurs s'engagent sur le col de Tsolenka dans [[Arc R - Trials of the Mountain]], affrontant des monstres, des ennemis avides de vengeance et la montagne elle-même pour atteindre leurs destinations. Chaque nuit, ils sont hantés par Strahd von Zarovich, qui cherche à les tourmenter par des jeux cruels et douloureux. 
+
+Le seul répit des joueurs se trouve dans le village caché du Peuple de la Montagne, Soldav. Là, l'antique **géant des tempêtes** Burebis leur révèle que seules les Trois Dames savent comment arracher les sanctuaires à la corruption de Strahd, mais que le secret pour entrer en contact avec leurs esprits repose dans les profondeurs du Temple d'Ambre lui-même.
+
+Dans [[Arc S - A Sword of Sunlight]], les joueurs s'enfoncent dans les ténèbres du Temple d'Ambre et tentent de résister à ses ombres et à sa corruption assez longtemps pour obtenir la garde cachée de l'*Épée solaire*, que Patrina Velikovna a scellée il y a bien longtemps dans le sarcophage d'ambre du Vampyr. Après avoir récupéré la garde et vaincu l'esprit courroucé de Patrina, les joueurs doivent rendre son pouvoir à l'épée brisée en faisant surgir des brumes l'esprit de Sergei von Zarovich.
+
+Après avoir appris du fantôme Exethanter comment entrer en contact avec les esprits des Trois Dames, les joueurs retournent à Soldav dans [[Arc T - The Three Fanes]]. Là, les esprits de la Tisseuse et de la Chasseresse peuvent leur révéler que les trois sanctuaires peuvent être reconsacrés en obtenant les trois gemmes enchantées du domaine viticole du Magicien des Vins et en ravivant la magie qu'elles renferment. 
+
+Cet acte s'achève lorsque les joueurs redescendent du mont Ghakis et regagnent la vallée en contrebas.

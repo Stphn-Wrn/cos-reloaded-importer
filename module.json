@@ -1,0 +1,37 @@
+{
+  "id": "cos-reloaded-importer",
+  "title": "Curse of Strahd: Reloaded Importer",
+  "description": "Imports DragnaCarta's Curse of Strahd: Reloaded guide into linked, structured journals and keeps them up to date with the published guide.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Courbette"
+    }
+  ],
+  "url": "https://github.com/Stphn-Wrn/cos-reloaded-importer",
+  "manifest": "https://raw.githubusercontent.com/Stphn-Wrn/cos-reloaded-importer/main/module.json",
+  "download": "https://github.com/Stphn-Wrn/cos-reloaded-importer/releases/download/v0.1.0/cos-reloaded-importer.zip",
+  "license": "MIT",
+  "esmodules": [
+    "src/main.js"
+  ],
+  "styles": [
+    "styles/cos-reloaded-importer.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    }
+  ]
+}

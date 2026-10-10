@@ -1,0 +1,447 @@
+{
+  "names": {
+    "Chapter 1 - Beginning the Campaign": "Chapitre 1 - Commencer la campagne",
+    "Chapter 2 - The Land of Barovia": "Chapitre 2 - La contrée de Barovie",
+    "Chapter 3 - Running the Game": "Chapitre 3 - Mener la partie",
+    "Act I - Into the Mists": "Acte I - Dans les brumes",
+    "Act II - The Shadowed Town": "Acte II - La ville dans l'ombre",
+    "Act III - The Broken Land": "Acte III - La terre brisée",
+    "Act IV - Secrets of the Ancient": "Acte IV - Les secrets de l'Ancien",
+    "Appendices": "Annexes",
+    "Using This Guide": "Utiliser ce guide",
+    "A DM's Guide to Curse of Strahd": "Le guide du MJ pour Curse of Strahd",
+    "Changelog": "Journal des modifications",
+    "Session Zero": "Session zéro",
+    "Character Creation": "Création des personnages",
+    "History of Barovia": "Histoire de la Barovie",
+    "Lore of Barovia": "Savoirs de Barovie",
+    "Adventure Summary": "Résumé de l'aventure",
+    "Running the Adventure": "Mener l'aventure",
+    "Act I Summary": "Résumé de l'acte I",
+    "Act II Summary": "Résumé de l'acte II",
+    "Act III Summary": "Résumé de l'acte III",
+    "Act IV Summary": "Résumé de l'acte IV",
+    "Arc A - Escape From Death House": "Arc A - Évasion de la Maison de la Mort",
+    "Arc B - Welcome to Barovia": "Arc B - Bienvenue en Barovie",
+    "Arc C - Into the Valley": "Arc C - Dans la vallée",
+    "Arc D - St. Andral's Feast": "Arc D - La fête de saint Andral",
+    "Arc E - The Missing Vistana": "Arc E - La Vistana disparue",
+    "Arc F - Lady Wachter's Wish": "Arc F - Le vœu de Dame Wachter",
+    "Arc G - The Strazni Siblings": "Arc G - Les enfants Strazni",
+    "Arc H - The Lost Soul": "Arc H - L'âme perdue",
+    "Arc I - The Walls of Krezk": "Arc I - Les murailles de Krezk",
+    "Arc J - The Stolen Gem": "Arc J - La gemme volée",
+    "Arc K - The Fallen Abbey": "Arc K - L'abbaye déchue",
+    "Arc L - The Den of Wolves": "Arc L - L'antre des loups",
+    "Arc M - The Dragon's Manor": "Arc M - Le manoir du dragon",
+    "Arc N - Tales of Vallaki": "Arc N - Récits de Vallaki",
+    "Arc O - Dinner with the Devil": "Arc O - Dîner avec le diable",
+    "Arc P - Ravenloft Heist": "Arc P - Le casse de Ravenloft",
+    "Arc Q - A Shining Beacon": "Arc Q - Un phare dans la nuit",
+    "Arc R - Trials of the Mountain": "Arc R - Les épreuves de la montagne",
+    "Arc S - A Sword of Sunlight": "Arc S - Une épée de lumière",
+    "Arc T - The Three Fanes": "Arc T - Les trois sanctuaires",
+    "Arc U - Dreams of Dawn": "Arc U - Rêves d'aurore",
+    "Epilogue": "Épilogue",
+    "Non-Player Characters": "Personnages non joueurs",
+    "Bestiary": "Bestiaire",
+    "Amber Shards": "Éclats d'ambre",
+    "Glossary": "Glossaire"
+  },
+  "files": {
+    "Act I - Into the Mists/Arc A - Escape From Death House.md": {
+      "sources": [
+        "be14ee1bad73e",
+        "8425087cac368",
+        "16ea76f35cf876",
+        "b3d6d99e00f67",
+        "3e5dc04965308"
+      ]
+    },
+    "Act I - Into the Mists/Act I Summary.md": {
+      "sources": [
+        "ebc866d2e6683",
+        "a105eb893adb",
+        "11ac879b239ff2"
+      ]
+    },
+    "Act I - Into the Mists/Arc B - Welcome to Barovia.md": {
+      "sources": [
+        "2f9741f3a0b27",
+        "eb46eca8fb731",
+        "71dd00671386",
+        "1afa07937bb23f",
+        "ae58c08f10a79",
+        "1bc6ef7156ea5d"
+      ]
+    },
+    "Act I - Into the Mists/Arc C - Into the Valley.md": {
+      "sources": [
+        "bda9b0ea13a15",
+        "337bbc222430a",
+        "125f8960c079f5",
+        "17ad4d52699b78",
+        "da0e82c887ba4",
+        "8e2fb1be055cc",
+        "1cf82105ba6139",
+        "1d443cfcb17e14",
+        "1dfbd6ea92e370",
+        "3c584e17f5511",
+        "305c6b47a0b9d",
+        "44a14c60effdb",
+        "1c0f0e9551689b",
+        "96e16a063e1cc"
+      ]
+    },
+    "Appendices/Glossary.md": {
+      "sources": [
+        "1980d5966c2234"
+      ]
+    },
+    "Chapter 1 - Beginning the Campaign/Character Creation.md": {
+      "sources": [
+        "76499198c8a88",
+        "10f56d16ad2314",
+        "db02c8000e2e3"
+      ]
+    },
+    "Chapter 1 - Beginning the Campaign/Session Zero.md": {
+      "sources": [
+        "d436a9cb52274",
+        "144407f1b56028",
+        "6bde5fa5e6fa8"
+      ]
+    },
+    "Chapter 2 - The Land of Barovia/History of Barovia.md": {
+      "sources": [
+        "17b890d0766a94",
+        "1ab8de874337f",
+        "a3a9b5411b9d2",
+        "35de527d02213",
+        "11744d5e4cc87b",
+        "1f3281243d829",
+        "16565ae3695974",
+        "17e2024c26291b"
+      ]
+    },
+    "Chapter 2 - The Land of Barovia/Lore of Barovia.md": {
+      "sources": [
+        "1359ec7965b567",
+        "1cc7099de8f93",
+        "1d53e088a267b4",
+        "14cce07f2d06c6",
+        "1e2e30224f4641",
+        "119af4fba2ed36",
+        "b6cb8d0ae473b",
+        "12a781e3a524a5"
+      ]
+    },
+    "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md": {
+      "sources": [
+        "8012322de8747",
+        "118053c6638d07",
+        "183cb85d2f2857",
+        "ca75da443cda7",
+        "4ef8a23a27edd",
+        "12280b6fb638d1"
+      ]
+    },
+    "Chapter 3 - Running the Game/Adventure Summary.md": {
+      "sources": [
+        "1334ad1ab8d2ad",
+        "c03259a2a8152",
+        "17edc433eb6779",
+        "1dd5ca2b2d18fb",
+        "1c57cd09ae66de",
+        "11d8651d832b15"
+      ]
+    },
+    "Chapter 3 - Running the Game/Running the Adventure.md": {
+      "sources": [
+        "14c8f2b6b4c2ff",
+        "1c6282ed6241ad",
+        "2fdad3632442c",
+        "9155120deadc6",
+        "1aaa4f0ee801ef",
+        "15fca5b6108f51"
+      ]
+    },
+    "Introduction/A DM's Guide to Curse of Strahd.md": {
+      "sources": [
+        "65582cb87ebcb",
+        "4ed13c7b5e0ac",
+        "2a9995f0ea2dd",
+        "1351b3f102aab6",
+        "1338ca7e3fb755"
+      ]
+    },
+    "Introduction/Using This Guide.md": {
+      "sources": [
+        "127834a875d4e4",
+        "152ff24fea7d99"
+      ]
+    },
+    "Act II - The Shadowed Town/Act II Summary.md": {
+      "sources": [
+        "1498046e696778",
+        "26d4308b61b22",
+        "432dd4a2672c1"
+      ]
+    },
+    "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md": {
+      "sources": [
+        "13dcb889071de",
+        "12d38552fa48bd",
+        "1c4a134c8c526b",
+        "76824e8ebb4de",
+        "1fc42919371cf8",
+        "d684e083ba3e0"
+      ]
+    },
+    "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md": {
+      "sources": [
+        "1ecdc562ddb825",
+        "12d6fe3da6a65f",
+        "1d12f253a8b5db",
+        "1ad882f3221c5a",
+        "1911f4f1193eac",
+        "972e62062eacb",
+        "298825a089a98"
+      ]
+    },
+    "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md": {
+      "sources": [
+        "49f649755f972",
+        "1b51ae8fefb8ab",
+        "b00d23ec52656",
+        "8e91c215c4da8",
+        "7280488a30c55",
+        "e182cf9e536e7",
+        "10391a2f0bf44c"
+      ]
+    },
+    "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md": {
+      "sources": [
+        "159c0d012599b4",
+        "11d331def7664",
+        "18d68098e1876a",
+        "28f8aae3a04e0",
+        "19fff0b6332ab5",
+        "192fb43f5c95ea",
+        "1f2129709806c5",
+        "5a77467d18dde"
+      ]
+    },
+    "Act II - The Shadowed Town/Arc E - The Missing Vistana.md": {
+      "sources": [
+        "db941d735594",
+        "9c22043282751",
+        "8886da6c0967e",
+        "be4b5b1fe7db2",
+        "11b9f3971b022b",
+        "1b46d9dc746060",
+        "1eae34e0b93f88",
+        "18a2cef34195b9",
+        "3f8093cb8ba36",
+        "5e1e469314a9e"
+      ]
+    },
+    "Act II - The Shadowed Town/Arc H - The Lost Soul.md": {
+      "sources": [
+        "11fd281d1a8182",
+        "1410b5033086a2",
+        "5f362f2732a6a",
+        "104c5ea8d464a3",
+        "63e424e53ac06",
+        "f1065b660d79c",
+        "ddf68c5629918",
+        "19abeb9f9e30fb",
+        "9ab70d940d8b",
+        "19eb6151138b00",
+        "260f8ceb691ba"
+      ]
+    },
+    "Act III - The Broken Land/Arc N - Tales of Vallaki.md": {
+      "sources": []
+    },
+    "Act III - The Broken Land/Act III Summary.md": {
+      "sources": [
+        "66607e1a81b24",
+        "24cc334efe2f6",
+        "1fc8cb9d6229dd"
+      ]
+    },
+    "Act III - The Broken Land/Arc K - The Fallen Abbey.md": {
+      "sources": [
+        "1649f7b03fdd5b",
+        "1b504532b9f2d6",
+        "252a88c9794e7"
+      ]
+    },
+    "Act III - The Broken Land/Arc L - The Den of Wolves.md": {
+      "sources": [
+        "1272d147f96b90",
+        "11f376d1acb2e6",
+        "19d3059b4ba8c2",
+        "ed285035951a2",
+        "8d3683ae0a4d7"
+      ]
+    },
+    "Act III - The Broken Land/Arc P - Ravenloft Heist.md": {
+      "sources": [
+        "19bf539272019f",
+        "1b97b4923c62ea",
+        "4b6561c787d21",
+        "63292c4fe4b35",
+        "1040c128e6ac43",
+        "ad2a086f41163",
+        "3da1d6526d167",
+        "1829c6ad58b43a",
+        "1603a8b640d0b0",
+        "8ef0c057d7323",
+        "1429c2f6f8b7f4",
+        "e7c47f595e3f9",
+        "1fd94f1b8f4b28"
+      ]
+    },
+    "Act III - The Broken Land/Arc Q - A Shining Beacon.md": {
+      "sources": [
+        "1aa4ff4c421923",
+        "146550a72046a3",
+        "cfaad577f0e0e",
+        "17daa0d83b803f",
+        "1f927689fa1fd5",
+        "1e445e86c4deb1",
+        "14f2e0ad0851d5",
+        "723d11e90cedd"
+      ]
+    },
+    "Act III - The Broken Land/Arc M - The Dragon's Manor.md": {
+      "sources": [
+        "12ddd665f62a40",
+        "4c8fa7794c835",
+        "14e4e5d2cec7ef",
+        "18d615bdaa8ce1",
+        "b48b1e7d6780b",
+        "fbaa1695c6f49",
+        "16724ad443933f",
+        "1f9e966db07c3c"
+      ]
+    },
+    "Act III - The Broken Land/Arc J - The Stolen Gem.md": {
+      "sources": [
+        "1bda0f9892f70f",
+        "1c41b436691673",
+        "750c42e938fad",
+        "7ca5db1259c7d",
+        "6732a9893efe0",
+        "108bf06b0b704",
+        "1edc8e6461ad99",
+        "486891ed7ec6b"
+      ]
+    },
+    "Act III - The Broken Land/Arc O - Dinner with the Devil.md": {
+      "sources": [
+        "1a926088877fef",
+        "14bd3bc87d1cad",
+        "c3a9956a957c5",
+        "1d31e70bb46818",
+        "b28d5eb35c188",
+        "184717f4df919a",
+        "6037aa9f520a2",
+        "a102fd63fe8b1",
+        "1fa80828c029cb",
+        "3c0cd140b534d",
+        "13b7bcdc30a858",
+        "1519821c30a768"
+      ]
+    },
+    "Act IV - Secrets of the Ancient/Act IV Summary.md": {
+      "sources": [
+        "1eac7bbb0203ac"
+      ]
+    },
+    "Act IV - Secrets of the Ancient/Epilogue.md": {
+      "sources": [
+        "1652f70489def2"
+      ]
+    },
+    "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md": {
+      "sources": [
+        "18058bc3652e9",
+        "18d157157a05f1",
+        "196637873c456c",
+        "6316d7a2230",
+        "11074b4a14fb3",
+        "1bd3fa5270be34",
+        "ff833ff56e6e9"
+      ]
+    },
+    "Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain.md": {
+      "sources": [
+        "1e74ebb8da0b77",
+        "4921950628d57",
+        "8c7831b3696b0",
+        "102281c53c5ad4",
+        "139a92163eb1ce",
+        "c2c2b0f601cc0",
+        "60be32dbaab70"
+      ]
+    },
+    "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md": {
+      "sources": [
+        "10ce5180a84ad6",
+        "178c19ef9ef1fb",
+        "16d7996392878b",
+        "150f87b4bd101b",
+        "44f4977bca1da",
+        "570a575b35530",
+        "aaa3bba348ced",
+        "1230d2b21dd443",
+        "9429f9f1dc019"
+      ]
+    },
+    "Act IV - Secrets of the Ancient/Arc T - The Three Fanes.md": {
+      "sources": [
+        "15dfa92d80806c",
+        "6f6287ad65a3d",
+        "399988314f49b",
+        "14eeb4830075bf",
+        "12c8b42fbb7717",
+        "f9590ca321c4"
+      ]
+    },
+    "Appendices/Non-Player Characters.md": {
+      "sources": [
+        "1e5b51c30786c",
+        "1e4566b1e32653",
+        "f845d68c6d7c2",
+        "167caa80a01f68",
+        "6561a6f2d9a25",
+        "14ccc49b16438e",
+        "842b7df817537",
+        "1e500c65167a0d",
+        "19478ec1172938",
+        "1ab469d9ed9ab4",
+        "746b3559e7ad5",
+        "1f430438eea15a",
+        "1f28cde9cf9a3c",
+        "1c5b2ee396509b"
+      ]
+    },
+    "Appendices/Amber Shards.md": {
+      "sources": [
+        "16681f9861ea36",
+        "1bdff22ac69908",
+        "e4166a366b872",
+        "861fd5cbf7236",
+        "c6c2f8a968781"
+      ]
+    },
+    "Appendices/Bestiary.md": {
+      "sources": [
+        "698525b60fb4"
+      ]
+    }
+  }
+}

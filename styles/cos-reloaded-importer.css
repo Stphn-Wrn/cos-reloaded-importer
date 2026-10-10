@@ -1,0 +1,129 @@
+.cosr-page {
+  --cosr-accent: #7a1f1f;
+  --cosr-read-aloud-bg: rgba(122, 31, 31, 0.07);
+  --cosr-callout-bg: rgba(0, 0, 0, 0.04);
+  --cosr-border: rgba(0, 0, 0, 0.18);
+}
+
+.cosr-page .description {
+  margin: 0.75em 0;
+  padding: 0.6em 1em;
+  border-left: 4px solid var(--cosr-accent);
+  background: var(--cosr-read-aloud-bg);
+  font-style: italic;
+}
+
+.cosr-page .description p {
+  margin: 0.3em 0;
+}
+
+.cosr-page .citation {
+  font-variant: small-caps;
+  font-weight: bold;
+  color: var(--cosr-accent);
+}
+
+.cosr-page .highlight {
+  font-weight: bold;
+}
+
+.cosr-page .credit,
+.cosr-page .subtitle {
+  display: block;
+  font-size: 0.85em;
+  opacity: 0.75;
+}
+
+.cosr-page img {
+  max-width: 100%;
+  height: auto;
+  border: none;
+}
+
+.cosr-page table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cosr-page th,
+.cosr-page td {
+  padding: 0.25em 0.5em;
+  border: 1px solid var(--cosr-border);
+  vertical-align: top;
+}
+
+.cosr-callout {
+  margin: 0.75em 0;
+  border: 1px solid var(--cosr-border);
+  border-left: 4px solid var(--cosr-callout-color, var(--cosr-accent));
+  border-radius: 4px;
+  background: var(--cosr-callout-bg);
+}
+
+.cosr-callout > summary,
+.cosr-callout > .cosr-callout-title {
+  padding: 0.4em 0.75em;
+  font-weight: bold;
+  color: var(--cosr-callout-color, var(--cosr-accent));
+}
+
+.cosr-callout > summary {
+  cursor: pointer;
+}
+
+.cosr-callout-body {
+  padding: 0 0.75em 0.5em;
+}
+
+.cosr-callout-info { --cosr-callout-color: #2f5f8a; }
+.cosr-callout-abstract { --cosr-callout-color: #3b7a6b; }
+.cosr-callout-lore { --cosr-callout-color: #6b4f2a; }
+.cosr-callout-combat { --cosr-callout-color: #8a1c1c; }
+.cosr-callout-warning { --cosr-callout-color: #a35a00; }
+.cosr-callout-profile { --cosr-callout-color: #5a3d7a; }
+.cosr-callout-item { --cosr-callout-color: #7a6a1f; }
+.cosr-callout-design,
+.cosr-callout-tip { --cosr-callout-color: #4a4a4a; }
+
+.cosr-page .statblock {
+  margin: 0.75em 0;
+  padding: 0.5em 0.75em;
+  border-top: 3px solid var(--cosr-accent);
+  border-bottom: 3px solid var(--cosr-accent);
+  background: var(--cosr-callout-bg);
+  font-size: 0.9em;
+}
+
+.cosr-page .statblock h2 {
+  margin: 0;
+  border: none;
+  color: var(--cosr-accent);
+}
+
+.cosr-page .statblock .ability-table {
+  text-align: center;
+}
+
+.cosr-unresolved {
+  text-decoration: underline dotted;
+  opacity: 0.8;
+}
+
+.cosr-dialog .cosr-error {
+  color: var(--color-level-error, #c33);
+}
+
+.cosr-dialog .cosr-update {
+  font-weight: bold;
+}
+
+.cosr-dialog .cosr-changed {
+  max-height: 10em;
+  overflow-y: auto;
+}
+
+.cosr-dialog .cosr-force {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
