@@ -1,0 +1,26 @@
+{
+  "group": "strahd",
+  "platform": "foundry",
+  "icon": "fa-book-open",
+  "order": 10,
+  "text": {
+    "fr": {
+      "title": "Curse of Strahd: Reloaded",
+      "summary": "Importe le guide de DragnaCarta en journaux structurés et reliés, et les tient à jour.",
+      "features": [
+        "Un journal par arc, une page par section, liens internes résolus",
+        "Mise à jour quand le guide évolue, sans écraser vos retouches",
+        "Version française complète du guide"
+      ]
+    },
+    "en": {
+      "title": "Curse of Strahd: Reloaded",
+      "summary": "Imports DragnaCarta's guide into structured, linked journals and keeps them up to date.",
+      "features": [
+        "One journal per arc, one page per section, links resolved",
+        "Updates when the guide changes, without overwriting your edits",
+        "Full French version of the guide"
+      ]
+    }
+  }
+}
