@@ -686,6 +686,11 @@ La silhouette dorée est l'esprit de Sergei von Zarovich (utilisez les statistiq
 > Lorsque Tatyana se réincarna pour la première fois en Marina, au village de Berez, Sergei crut qu'elle lui offrait une chance de rédemption. C'est Sergei, guidé à son insu par les murmures des Puissances des Ténèbres, qui visita en rêve le bourgmestre Lazlo Ulrich et le frère Grigor pour les avertir des visites nocturnes de Strahd. Malheureusement pour Sergei, Lazlo et Grigor tuèrent Marina comme décrit dans le <span class="citation">Chapitre 10 : les ruines de Berez (p. 161)</span>, au lieu de l'emmener loin d'ici comme Sergei l'avait espéré.
 >
 > Aujourd'hui, Sergei se cache généralement près de la frontière de l'Éthéré profond, afin d'échapper aux regards vigilants du **destrier noir** et des serviteurs spectraux de Strahd. Il ose cependant parfois se rendre au monument de Marina, où il rend hommage à la femme qu'il n'a pas su sauver, et que ses actes ont condamnée. Sergei redoute le jour où il pourrait de nouveau croiser l'âme de Tatyana — et espère ardemment que ce jour ne viendra jamais.
+
+
+![[Sergei.png]]
+<span class="credit">« Sergei von Zarovich » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
+
 ### La surprise de Sergei
 Si les joueurs attirent l'attention de Sergei, ou ne parviennent pas à dissimuler leur entrée dans cette zone, lisez :
 

@@ -572,8 +572,6 @@ Dame Wachter peut indiquer que, d'après le livre, Vladislav était un Wachter e
 
 ***Wachterhaus.*** Le cadavre de Nikolai Wachter a été retiré du Wachterhaus afin qu'il ne joue pas en défaveur de Dame Wachter — un personnage complexe auquel les joueurs devraient avoir davantage de raisons de faire confiance, et non moins. (Voir [[Arc H - The Lost Soul]] pour plus d'informations sur la relation des joueurs avec Dame Fiona Wachter.)
 
-La liste de sorts de Dame Wachter a été mise à jour pour inclure *zone de vérité*, afin de lui donner un outil puissant pour encourager les joueurs à lui faire confiance. (Voir [[Arc D - The Tome of Strahd]] pour plus d'informations sur l'usage que fait Dame Wachter de *zone de vérité*). 
-
 *Glas*, *Fléau*, *Cécité/surdité* et *Restauration partielle* ont aussi été ajoutés à la liste de sorts de Dame Wachter pour lui offrir davantage d'options dans le combat contre les **spectres** du plan Éthéré et l'esprit de Leo Dilisnya dans [[Arc H - The Lost Soul]].
 
 L'apparition de Stella a été ajoutée en prélude au dîner pour humaniser Dame Wachter, encourager les joueurs à la voir avec sympathie et préfigurer le sort de Stella dans [[Arc H - The Lost Soul]]
@@ -588,12 +586,10 @@ En plus d'appuyer son argument, le récit de Berez par Dame Wachter a été ajou
 
 Les anecdotes de Dame Wachter au sujet d'Ezra et de Leo Dilisnya ont été ajoutées pour préfigurer le lien d'Ezra avec les Puissances des Ténèbres (que les joueurs découvriront dans [[Arc T - The Three Fanes]]) et pour présenter la relation hostile entre Leo Dilisnya et la famille Wachter. (Les joueurs auront l'occasion d'affronter Leo Dilisnya et d'en apprendre davantage sur cette relation dans [[Arc H - The Lost Soul]].)
 
-***Retour à l'auberge de l'Eau Bleue.*** La rencontre des joueurs avec Ernst Larnak a été ajoutée pour présenter ce personnage avant son rôle d'antagoniste dans [[Arc S - The Moonlit Murders]].
-
 ***L'assassinat d'Izek.*** La caisse à vin d'Izek a été ajoutée pour donner aux joueurs une occasion supplémentaire d'explorer le manoir du baron, et pour proposer une phase d'infiltration préalable qui fait monter la tension dramatique avant l'assassinat. Les rencontres des joueurs avec Bluto sur la grand-place, avec le chien dans la ruelle de Vallaki et avec la garde de la ville près de la porte du Matin, à l'est, jouent un rôle similaire.
 
 L'espion d'Izek, ainsi que les plaintes des réfugiés au sujet des pâtisseries des rêves de Morgantha, ont été ajoutés pour préfigurer la nature de **guenaude nocturne** de Morgantha, que les joueurs exploreront plus avant dans [[Arc H - The Lost Soul]]
 
 ***Tendre une embuscade à Izek.*** Le profil d'Izek a été repensé pour offrir une rencontre de combat en solo exigeante mais gagnable pour un groupe équilibré de joueurs de niveau 4. Notez cependant que ce profil représentera probablement un combat exceptionnellement difficile (voire impossible) pour un tel groupe s'il est affronté à armes égales : les joueurs devront tirer parti d'un ou plusieurs avantages (comme le vin empoisonné de Dame Wachter) pour l'emporter.
 
-***Les suites de la mission.*** La prise de pouvoir de Dame Wachter à Vallaki n'a volontairement aucune conséquence directe. Son rôle dans ce guide est celui d'une antihéroïne sympathique — et, à terme, d'une alliée héroïque à part entière des joueurs. Les seules conséquences de l'accession de Dame Wachter au pouvoir se trouvent dans [[Arc S - The Moonlit Murders]], où Anastrasya Karelova et Ernst Larnak profitent de la loyauté de Dame Wachter envers Strahd pour l'égarer et la fourvoyer à la suite d'une série de meurtres contre nature dans les rues de Vallaki.
+***Les suites de la mission.*** La prise de pouvoir de Dame Wachter à Vallaki n'a volontairement aucune conséquence directe. Son rôle dans ce guide est celui d'une antihéroïne sympathique — et, à terme, d'une alliée héroïque à part entière des joueurs. 

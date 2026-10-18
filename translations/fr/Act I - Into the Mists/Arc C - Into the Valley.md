@@ -24,7 +24,7 @@ Si les joueurs sont chargés d'escorter Ireena jusqu'à l'église Saint-Andral d
 > Ce guide n'intègre le contenu du module original *Curse of Strahd* que par renvoi. Par conséquent, chaque fois que les joueurs voyagent, ignorez la section <span class="citation">Rencontres aléatoires (p. 28)</span>, sauf lorsqu'une rencontre précise y est mentionnée et directement intégrée.
 
 > [!warning]+ **Modifications à venir**
-> L'arc ci-dessous est entièrement compatible avec les versions existantes des arcs précédents. Cependant, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]] et le chapitre [[#T4. The Monster Hunter]] de [[Arc T - The Three Fanes]] devraient faire l'objet d'une révision importante **après** l'achèvement du guide principal, avec les changements suivants :
+> L'arc ci-dessous est entièrement compatible avec les versions existantes des arcs précédents. Cependant, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]] et le chapitre [[Arc T - The Three Fanes#T4. The Monster Hunter|Le chasseur de monstres]] de [[Arc T - The Three Fanes]] devraient faire l'objet d'une révision importante **après** l'achèvement du guide principal, avec les changements suivants :
 >
 > * Arturi Radanavich sera retiré de la campagne.
 > * Ezmerelda d'Avenir est née Ezmerelda Radanavich, et a changé de nom après le massacre du clan Radanavich.
@@ -1179,7 +1179,7 @@ Cette zone est en grande partie conforme à la description de <span class="citat
 >
 > ***Moral.*** Dans un combat, Danika tenterait rapidement de calmer le jeu, mais se battrait jusqu'à la mort pour défendre sa famille ou ses clients.
 >
-> ***Relations.*** Danika est la mère de Brom et Bray Martikov et l'épouse d'Urwin Martikov. En plus d'être copropriétaire de l'auberge de l'Eau Bleue, Danika est un membre haut placé des [[Lore of Barovia#Factions#Keepers of the Feather|Gardiens de la Plume]].
+> ***Relations.*** Danika est la mère de Brom et Bray Martikov et l'épouse d'Urwin Martikov. En plus d'être copropriétaire de l'auberge de l'Eau Bleue, Danika est un membre haut placé des [[Lore of Barovia#Keepers of the Feather|Gardiens de la Plume]].
 ### Entrer dans l'auberge
 La salle commune est conforme à la description de <span class="citation">N2c. Salle commune (p. 100)</span>. Ajoutez cependant le texte suivant à la fin de la description de cette zone :
 

@@ -98,7 +98,7 @@ Cette scène se déroule en grande partie comme décrit dans <span class="citati
 
 ![[Ismark.png]]
 <span class="credit">« Ismark Kolyanovich » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
-Cet homme est Ismark Kolyanovich, qui correspond en grande partie à la description de <span class="citation">E2. Taverne du Sang de la Vigne (p. 43)</span>. Le corbeau est Muriel, une **corbeau-garou** déguisée, membre des [[Lore of Barovia#Factions#Keepers of the Feather|Gardiens de la Plume]]. Deux **éclaireurs** armés d'arbalètes légères (+4 au toucher, portée 24/96 m, une cible, *Touché :* 6 (1d8 + 2) dégâts perforants), nommés Kereza et Korga, montent la garde sur les toits voisins, tandis que six **roturiers** baroviens réparent la barricade.
+Cet homme est Ismark Kolyanovich, qui correspond en grande partie à la description de <span class="citation">E2. Taverne du Sang de la Vigne (p. 43)</span>. Le corbeau est Muriel, une **corbeau-garou** déguisée, membre des [[Lore of Barovia#Keepers of the Feather|Gardiens de la Plume]]. Deux **éclaireurs** armés d'arbalètes légères (+4 au toucher, portée 24/96 m, une cible, *Touché :* 6 (1d8 + 2) dégâts perforants), nommés Kereza et Korga, montent la garde sur les toits voisins, tandis que six **roturiers** baroviens réparent la barricade.
 
 > [!profile]+ **Profil : Ismark Kolyanovich**
 >

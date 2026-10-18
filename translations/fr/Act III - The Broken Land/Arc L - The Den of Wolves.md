@@ -7,7 +7,7 @@ Avec l'aide d'Ezmerelda d'Avenir, les joueurs peuvent remonter la piste de l'ant
 Là, les joueurs rencontrent Zuleika Toranescu, une prêtresse **loup-garou** de Mère Nuit et la sœur aînée du baron Dmitri Krezkov. Zuleika est la compagne d'Emil Toranescu, l'ancien chef **loup-garou** de la meute que Kiril Stoyanovich a renversé lorsque Strahd s'est réveillé de son sommeil. Zuleika accepte de lever la protection de Mère Nuit sur le sanctuaire, de laisser les joueurs récupérer le *Symbole sacré de Ravenkind* et d'obtenir la liberté d'Ilya, à condition qu'ils la libèrent elle aussi et promettent de délivrer Emil des cachots du château de Ravenloft.
 
 > [!warning]+ **Modifications à venir**
-> L'arc ci-dessous est entièrement compatible avec les versions existantes des arcs précédents. Cependant, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]] et le chapitre [[#T4. The Monster Hunter]] de [[Arc T - The Three Fanes]] devraient faire l'objet d'une révision importante **après** l'achèvement du guide principal, avec les changements suivants :
+> L'arc ci-dessous est entièrement compatible avec les versions existantes des arcs précédents. Cependant, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]] et le chapitre [[Arc T - The Three Fanes#T4. The Monster Hunter|Le chasseur de monstres]] de [[Arc T - The Three Fanes]] devraient faire l'objet d'une révision importante **après** l'achèvement du guide principal, avec les changements suivants :
 >
 > * Arturi Radanavich sera retiré de la campagne.
 > * Ezmerelda d'Avenir est née Ezmerelda Radanavich, et a changé de nom après le massacre du clan Radanavich.

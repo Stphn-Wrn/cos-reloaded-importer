@@ -35,9 +35,9 @@ Avant l'arrivée des joueurs, le maître de piste Rictavio réserve une chambre 
 
 **Les joueurs arrivent à Vallaki au crépuscule.**
 
-Cette nuit-là, Milivoj, le gardien de l'église, vole les ossements de saint Andral et les remet au fabricant de cercueils du coin, Henrik van der Voort.
+Cette nuit-là, Milivoj, le gardien de l'église, vole les ossements de saint Andral et les remet au fabricant de cercueils du coin, Henrik van der Voort. Le père Lucian est témoin du vol, mais ne reconnaît pas le coupable dans l'obscurité.
 ## 3 neyavr
-À l'aube, le père Lucian Petrovich découvre la disparition des ossements. Les joueurs qui amènent Ireena à l'église Saint-Andral après ce moment commencent [[Arc D - St. Andral's Feast]].
+Les joueurs qui amènent Ireena à l'église Saint-Andral après ce moment commencent [[Arc D - St. Andral's Feast]].
 
 Izek Strazni et deux **gardes** placardent sur la grand-place de Vallaki des affiches annonçant la fête du Soleil ardent. Les joueurs qui amènent Ireena sur la grand-place à ce moment-là commencent [[Arc G - The Strazni Siblings]], si Izek n'a pas encore vu Ireena.
 

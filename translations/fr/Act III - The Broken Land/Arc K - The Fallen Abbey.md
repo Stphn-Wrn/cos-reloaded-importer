@@ -7,7 +7,7 @@ Dans cet arc, une fois entrés dans Krezk, les joueurs doivent monter jusqu'à l
 Si les joueurs arrivent avant la deuxième nuit qui suit la pleine lune, l'Abbé leur indique qu'Ezmerelda est absente et reviendra bientôt. S'ils arrivent la deuxième nuit qui suit la pleine lune ou plus tard, l'Abbé les conduit auprès d'Ezmerelda, qui se joint volontiers à leurs efforts — à condition qu'ils l'aident à sauver Krezk de la folie de l'Abbé.
 
 > [!warning]+ **Modifications à venir**
-> L'arc ci-dessous est entièrement compatible avec les versions existantes des arcs précédents. Cependant, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]] et le chapitre [[#T4. The Monster Hunter]] de [[Arc T - The Three Fanes]] devraient être profondément remaniés **après** l'achèvement du guide principal, avec les changements suivants :
+> L'arc ci-dessous est entièrement compatible avec les versions existantes des arcs précédents. Cependant, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]] et le chapitre [[Arc T - The Three Fanes#T4. The Monster Hunter|Le chasseur de monstres de [[Arc T - The Three Fanes]] devraient être profondément remaniés **après** l'achèvement du guide principal, avec les changements suivants :
 >
 > * Arturi Radanavich sera retiré de la campagne.
 > * Ezmerelda d'Avenir est née Ezmerelda Radanavich ; elle a changé de nom après le massacre du clan Radanavich.

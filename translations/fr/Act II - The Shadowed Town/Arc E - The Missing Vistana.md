@@ -57,7 +57,7 @@ Si les joueurs retournent à Vallaki, confrontent Rictavio et le persuadent qu'i
 > Van Richten et Arabelle savent tous deux que ce n'est, au mieux, qu'une solution provisoire. Van Richten, qui a entendu parler pour la première fois des mystérieux [[Lore of Barovia#Keepers of the Feather|Gardiens de la Plume]] lors de la rébellion de Doru, enquête discrètement sur ses membres, comme décrit dans <span class="citation">N2c. Salle commune (p. 100)</span>. Il espère déterminer si la société secrète est amie ou ennemie — et, si elle est amie, si l'on peut se fier à ses agents.
 
 > [!warning]+ **Modifications à venir**
-> L'arc ci-dessous est entièrement compatible avec les versions existantes des arcs précédents. Cependant, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]] et le chapitre [[#T4. The Monster Hunter]] de [[Arc T - The Three Fanes]] devraient être profondément remaniés **après** l'achèvement du guide principal, avec les changements suivants :
+> L'arc ci-dessous est entièrement compatible avec les versions existantes des arcs précédents. Cependant, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]] et le chapitre [[Arc T - The Three Fanes#T4. The Monster Hunter|Le chasseur de monstres]] de [[Arc T - The Three Fanes]] devraient être profondément remaniés **après** l'achèvement du guide principal, avec les changements suivants :
 >
 > * Arturi Radanavich sera retiré de la campagne.
 > * Ezmerelda d'Avenir est née Ezmerelda Radanavich ; elle a changé de nom après le massacre du clan Radanavich.

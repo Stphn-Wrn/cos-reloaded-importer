@@ -262,7 +262,7 @@ Si les joueurs suivent le papillon, lisez :
 <p>Une silhouette, vêtue d'une cape bleu pâle, se tient au fond de la ruelle, le sol gelé à ses pieds. Le papillon se pose sur son épaule et s'installe confortablement contre son cou.</p>  
 </div>
 
-Cette silhouette est une manifestation de la Rêveuse. Si elle parle, un joueur qui lui a parlé dans [[#U3h. The Lonely Maid]] reconnaît sa voix.
+Cette silhouette est une manifestation de la Rêveuse. Si elle parle, un joueur qui lui a parlé dans [[Arc U - Dreams of Dawn#U3h. The Lonely Maid|La jeune fille solitaire]] reconnaît sa voix.
 
 Si personne ne lui adresse la parole en premier, la Rêveuse salue les joueurs et s'excuse de les avoir observés. Elle abaisse ensuite la capuche de sa cape, révélant les traits d'une jeune femme, des yeux violet pâle, des oreilles légèrement pointues et des cheveux blancs comme neige qui tombent plus bas que ses épaules.
 
@@ -294,7 +294,7 @@ La Rêveuse est reconnaissante de tout conseil ou de toute recommandation que le
 ## 3. Retour à Krezk
 
 > [!abstract]+ **La requête de Cyrus**  
-> Si les joueurs ont escorté Cyrus jusqu'à Vallaki, il les aborde à l'issue de [[#Festival of the Dawn]] pour leur demander de l'escorter jusqu'à Krezk et à l'abbaye de Sainte-Markovia. « Je vais rentrer bredouille, dit-il d'un ton lugubre, mais mieux vaut un raté avec sa famille qu'un raté sans. Ils méritent au moins de connaître la vérité. »
+> Si les joueurs ont escorté Cyrus jusqu'à Vallaki, il les aborde à l'issue de la [[Epilogue#2. The Festival of the Dawn|fête de l'Aube]] pour leur demander de l'escorter jusqu'à Krezk et à l'abbaye de Sainte-Markovia. « Je vais rentrer bredouille, dit-il d'un ton lugubre, mais mieux vaut un raté avec sa famille qu'un raté sans. Ils méritent au moins de connaître la vérité. »
 ### 3a. Arrivée aux murailles
 Si les joueurs reviennent au village de Krezk après avoir vaincu Strahd, ils trouvent la porte gardée par Zygfrek et Otto Belview.
 
